@@ -9,3 +9,10 @@ My current work includes an AI-assisted Excel prototype for health-facility expe
 I am currently developing my skills in digital health, data analytics, public-sector digital transformation, responsible AI, and foundational Python.
 
 **Tools:** Excel • DHIS2 • ChatGPT • Google Colab • Python
+## Featured Projects
+
+[Nitrofurantoin Research Data Analysis](https://github.com/nasrmurtadha/Nitrofurantoin-research-data-analysis)  
+AI-assisted pharmaceutical research data analysis and visualization.
+
+[Health Facility Expenditure Reporting Prototype](https://github.com/nasrmurtadha/health-facility-expenditure-reporting)  
+Digital workflow prototype for health-facility expenditure reporting and monitoring.
